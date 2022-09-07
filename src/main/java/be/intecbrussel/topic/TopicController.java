@@ -1,4 +1,4 @@
-package be.intecbrussel.courseApiData.topic;
+package be.intecbrussel.topic;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

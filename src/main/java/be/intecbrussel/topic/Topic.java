@@ -1,4 +1,4 @@
-package be.intecbrussel.courseApiData.topic;
+package be.intecbrussel.topic;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

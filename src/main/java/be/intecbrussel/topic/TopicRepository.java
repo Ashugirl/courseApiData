@@ -1,4 +1,4 @@
-package be.intecbrussel.courseApiData.topic;
+package be.intecbrussel.topic;
 
 import org.springframework.data.repository.CrudRepository;
 
